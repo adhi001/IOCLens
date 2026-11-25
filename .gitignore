@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+ioc_lens.db
+.env
+.coverage
+dist/
+build/
+*.egg-info/
